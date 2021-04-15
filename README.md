@@ -1,0 +1,31 @@
+# // This is paste of Fallout Menu with added few options        \\
+#
+# // This is only menu and u need Executor to inject it to FiveM \\
+#
+# 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
