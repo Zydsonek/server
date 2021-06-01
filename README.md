@@ -1,8 +1,6 @@
-# // This is paste of Fallout Menu with added few options        \\
+# / This is only lua menu and u need Executor to inject it \
 #
-# // This is only menu and u need Executor to inject it to FiveM \\
-#
-# 
+# / This is paste Fallout Menu with addes few options and fixed DMG boost \
 #
 #
 #
